@@ -1,4 +1,4 @@
-# The-task-to-Googlecodein
+# The-task-to-Sugar-Labs
 
 Hello Sugar Labs!
 
